@@ -1,4 +1,8 @@
+---
+description: 'documents, reports, articles, and guides.'
+---
+
 # Introduction
 
-Reports of the workshops and events.
+This Section contains Bittopia University's documents, reports, articles, and guides. 
 
