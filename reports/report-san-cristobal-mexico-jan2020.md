@@ -77,7 +77,21 @@ The last part of the curriculum required that people gather in groups and brains
 
 ## Responses from the Workshop
 
-**1. What do you think of Bitcoin?** [![](https://camo.githubusercontent.com/aa9aeee830f2275167547a6e8458881268d390c117261915b4d9dcc3a8944965/68747470733a2f2f692e696d6775722e636f6d2f4872797076724d2e706e67)](https://camo.githubusercontent.com/aa9aeee830f2275167547a6e8458881268d390c117261915b4d9dcc3a8944965/68747470733a2f2f692e696d6775722e636f6d2f4872797076724d2e706e67) **2. What has prevented you from using Bitcoin?** [![](https://camo.githubusercontent.com/fea631f49faf0fa35694765b48893f0f08ba94e128ecdfdb5b27f942b1cc4c94/68747470733a2f2f692e696d6775722e636f6d2f3042385947454e2e706e67)](https://camo.githubusercontent.com/fea631f49faf0fa35694765b48893f0f08ba94e128ecdfdb5b27f942b1cc4c94/68747470733a2f2f692e696d6775722e636f6d2f3042385947454e2e706e67) **3. What are some of your worries regarding Bitcoin?** [![](https://camo.githubusercontent.com/3d0386849e09d213387768ea85b821056d3196f6bacad6d9edc8abfd5a9fbc96/68747470733a2f2f692e696d6775722e636f6d2f453043746d48642e706e67)](https://camo.githubusercontent.com/3d0386849e09d213387768ea85b821056d3196f6bacad6d9edc8abfd5a9fbc96/68747470733a2f2f692e696d6775722e636f6d2f453043746d48642e706e67) **4. What are some of the benefits of Bitcoin / Blockchain?** [![](https://camo.githubusercontent.com/463c4f03c30fcc0a28e3a752293860dda21aac49c726316b73411cfbc4095554/68747470733a2f2f692e696d6775722e636f6d2f41313972376c382e706e67)](https://camo.githubusercontent.com/463c4f03c30fcc0a28e3a752293860dda21aac49c726316b73411cfbc4095554/68747470733a2f2f692e696d6775722e636f6d2f41313972376c382e706e67)
+**1. What do you think of Bitcoin?**  
+
+![](https://camo.githubusercontent.com/aa9aeee830f2275167547a6e8458881268d390c117261915b4d9dcc3a8944965/68747470733a2f2f692e696d6775722e636f6d2f4872797076724d2e706e67)
+
+**2. What has prevented you from using Bitcoin?**  
+
+![](https://camo.githubusercontent.com/fea631f49faf0fa35694765b48893f0f08ba94e128ecdfdb5b27f942b1cc4c94/68747470733a2f2f692e696d6775722e636f6d2f3042385947454e2e706e67)
+
+**3. What are some of your worries regarding Bitcoin?**  
+
+![](https://camo.githubusercontent.com/3d0386849e09d213387768ea85b821056d3196f6bacad6d9edc8abfd5a9fbc96/68747470733a2f2f692e696d6775722e636f6d2f453043746d48642e706e67)
+
+**4. What are some of the benefits of Bitcoin / Blockchain?** 
+
+![](https://camo.githubusercontent.com/463c4f03c30fcc0a28e3a752293860dda21aac49c726316b73411cfbc4095554/68747470733a2f2f692e696d6775722e636f6d2f41313972376c382e706e67)
 
 ### Overall Analysis
 
@@ -85,7 +99,9 @@ Overall as seen in the below responses, most people lacked the knowledge and edu
 
 > A lack of knowledge creates fear. Seeking knowledge creates courage. --Candice Swanepoel
 
-We also categorised the data. This allowed us to see the relevant topics that we should focus on: [![](https://camo.githubusercontent.com/7500abfa8ef41582e163638da0a34f3ef863ea1b1d5ae9a2c0b65db5e99c0696/68747470733a2f2f692e696d6775722e636f6d2f6166626d4556762e706e67)](https://camo.githubusercontent.com/7500abfa8ef41582e163638da0a34f3ef863ea1b1d5ae9a2c0b65db5e99c0696/68747470733a2f2f692e696d6775722e636f6d2f6166626d4556762e706e67)
+We also categorized the data. This allowed us to see the relevant topics that we should focus on: 
+
+![](https://camo.githubusercontent.com/7500abfa8ef41582e163638da0a34f3ef863ea1b1d5ae9a2c0b65db5e99c0696/68747470733a2f2f692e696d6775722e636f6d2f6166626d4556762e706e67)
 
 As seen from the above analysis, knowledge is the most important aspect when dealing with adoption and use.
 
@@ -175,5 +191,5 @@ Below are the responses provided by the participants who were willing to fill ou
 
 **What are some of the benefits of Bitcoin / Blockchain?** Decentralization and being able to control your own “bank”.
 
-**How would you improve the workshop?** Having more time to create a more flushed out and applicable DAO
+**How would you improve the workshop?** Having more time to create a more flushed out and applicable DAO.
 
