@@ -4,7 +4,7 @@
 
 ## Documents
 
-* [Why We Stopped Supporting The Coinomi Blockchain Wallet](documents/untitled.md)
+* [Why We Stopped Supporting The Coinomi Blockchain Wallet](documents/why-we-stopped-supporting-coinomi-blockchain-wallet.md)
 
 ## Reports
 
