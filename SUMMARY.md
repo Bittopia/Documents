@@ -4,7 +4,7 @@
 
 ## Documents
 
-* [Untitled](documents/untitled.md)
+* [Why We Stopped Supporting The Coinomi Blockchain Wallet](documents/untitled.md)
 
 ## Reports
 
