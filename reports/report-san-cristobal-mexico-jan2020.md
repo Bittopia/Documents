@@ -27,21 +27,21 @@ This open-source curriculum can be viewed via: [https://github.com/BITTOPIA/curr
 The curriculum was broken down into 7 modules. Most of the modules included an exercise that needed to be completed as a way of assessing and applying the theory. The following are the modules that were included in the workshop:
 
 * **Module 0: Introduction to Decentralized Currency**
-  *  Excercise 0: Download Telegram/join Telegram group for DAOfest Mexico \([https://t.me/DAOMX](https://t.me/DAOMX)\).
+  * Excercise 0: Download Telegram/join Telegram group for DAOfest Mexico \([https://t.me/DAOMX](https://t.me/DAOMX)\).
 * **Module 1: How to Setup a Wallet**
-  *  Excercise 1: Download Coinomi.
+  * Excercise 1: Download Coinomi.
 * **Module 2: Wallet Security 101**
-  *  Excercise 2: Securely store your mnemonic phrase.
+  * Excercise 2: Securely store your mnemonic phrase.
 * **Module 3: How to Buy Bitcoin**
-  *  Excercise 3: Sweep paper wallet, each loaded with 50 pesos.
+  * Excercise 3: Sweep paper wallet, each loaded with 50 pesos.
 * **Module 4: How to Send/Receive Funds**
-  *  Excercise 4: Send funds to each other.
+  * Excercise 4: Send funds to each other.
 * **Module 5: Online Transactions**
-  *  Excercise 5: Send funds to an address placed on the projector/TV screen.
+  * Excercise 5: Send funds to an address placed on the projector/TV screen.
 * **Module 6: What is Ethereum?**
-  *  Excercise 6: Download/setup Metamask.
+  * Excercise 6: Download/setup Metamask.
 * **Module 7: What is a DAO?**
-  *  Excercise 7: Create a DAO on Aragon via testnet.
+  * Excercise 7: Create a DAO on Aragon via testnet.
 
 ### Feedback
 
@@ -77,19 +77,19 @@ The last part of the curriculum required that people gather in groups and brains
 
 ## Responses from the Workshop
 
-**1. What do you think of Bitcoin?**  
+**1. What do you think of Bitcoin?**
 
 ![](https://camo.githubusercontent.com/aa9aeee830f2275167547a6e8458881268d390c117261915b4d9dcc3a8944965/68747470733a2f2f692e696d6775722e636f6d2f4872797076724d2e706e67)
 
-**2. What has prevented you from using Bitcoin?**  
+**2. What has prevented you from using Bitcoin?**
 
 ![](https://camo.githubusercontent.com/fea631f49faf0fa35694765b48893f0f08ba94e128ecdfdb5b27f942b1cc4c94/68747470733a2f2f692e696d6775722e636f6d2f3042385947454e2e706e67)
 
-**3. What are some of your worries regarding Bitcoin?**  
+**3. What are some of your worries regarding Bitcoin?**
 
 ![](https://camo.githubusercontent.com/3d0386849e09d213387768ea85b821056d3196f6bacad6d9edc8abfd5a9fbc96/68747470733a2f2f692e696d6775722e636f6d2f453043746d48642e706e67)
 
-**4. What are some of the benefits of Bitcoin / Blockchain?** 
+**4. What are some of the benefits of Bitcoin / Blockchain?**
 
 ![](https://camo.githubusercontent.com/463c4f03c30fcc0a28e3a752293860dda21aac49c726316b73411cfbc4095554/68747470733a2f2f692e696d6775722e636f6d2f41313972376c382e706e67)
 
@@ -99,7 +99,7 @@ Overall as seen in the below responses, most people lacked the knowledge and edu
 
 > A lack of knowledge creates fear. Seeking knowledge creates courage. --Candice Swanepoel
 
-We also categorized the data. This allowed us to see the relevant topics that we should focus on: 
+We also categorized the data. This allowed us to see the relevant topics that we should focus on:
 
 ![](https://camo.githubusercontent.com/7500abfa8ef41582e163638da0a34f3ef863ea1b1d5ae9a2c0b65db5e99c0696/68747470733a2f2f692e696d6775722e636f6d2f6166626d4556762e706e67)
 
