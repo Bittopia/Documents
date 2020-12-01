@@ -1,7 +1,7 @@
 # Bittopia University Annual Report: Year 0 (Draft)
 
 ### Social Media Networks
-- FB: 240 Members
+- Facebook: 240 Members
 - YouTube: 136 Members
 - MailChimp: 126 Members
 - Twitter: 68 Members
