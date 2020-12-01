@@ -1,5 +1,3 @@
-Make a one page graphical version of this (PDF)
-
 # Bittopia University Annual Report: Year 0
 
 ### Social Media Networks
