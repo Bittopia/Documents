@@ -1,4 +1,10 @@
-# Bittopia University Annual Report: Year 0 \| 2019-20
+---
+description: >-
+  The annual report highlighting our progress between November 2019 to December
+  2020.
+---
+
+# Annual Report: Year 0 \| 2019-20
 
 ## Bittopia University Annual Report: Year 0
 
@@ -104,7 +110,7 @@ The Bittopia Foundation was set up on Aragon as a Decentralized Autonomous Organ
 
 Aragon allows our organization to remain transparent and decentralized to the greatest extent possible while keeping decision-makers accountable. The Aragon network also supports our desire to have a transparent channel on how funds are received and spent, as well as how and why decisions regarding the foundation and organization are made.
 
-Link to our Organization on Aragon:   
+Link to our Organization on Aragon:  
 [https://client.aragon.org/\#/TBF](https://client.aragon.org/#/TBF)
 
 The Bittopia Foundation Creation Contract Address: [https://etherscan.io/address/0x2e4349120f1b4966b1230510f6af3852a046b84c](https://etherscan.io/address/0x2e4349120f1b4966b1230510f6af3852a046b84c)
@@ -167,12 +173,10 @@ This event was the proof-of-concept \(PoC\) required to demonstrate the feasibil
 
 During this event, I had asked the people who had attended to fill out a questionnaire. This form was the manifestation of two concepts that will be rewarded and verified via decentralized systems:
 
-**- Proof of Knowledge \(PoK\)**   
+**- Proof of Knowledge \(PoK\)**  
 **- Proof of Contribution \(PoCo\)**
 
 The questionnaire was split into two sides. One side contained the questions that we wanted to ask the attendees \(PoCo\), and the other was to verify the successful transfer of knowledge, as each component of the curriculum included an exercise that the attendee was required to complete to demonstrate the successful transfer of that aspect of knowledge and its application \(PoK\).
-
- 
 
 ![Bittopia University&apos;s questionnaire](https://camo.githubusercontent.com/0036a111d82f3b8172d1184d6b3f92407f951b3a42339e526a0533a0a937e725/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f626974746f7069612d756e69766572736974792d70726f6f662d6f662d6b6e6f776c656467652e706e67)
 
@@ -186,13 +190,13 @@ As seen above, we can gather that the most important piece of people's comments 
 
 #### 2.1.2 Full Report
 
-Read the full report for the San Cristobal Event: 
+Read the full report for the San Cristobal Event:
 
 {% page-ref page="report-san-cristobal-mexico-jan2020.md" %}
 
 #### 2.1.3 Photos
 
- [![](https://camo.githubusercontent.com/64b345fa5e99a899c8fc0fb4de6af04e8b64410f16770c604a6a364e2c746df8/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468312e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-1.jpg) [![](https://camo.githubusercontent.com/47ebad576c2f1f2c16bc381fbddbda7c0e4df02952f614e73733a9412ff802a9/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468322e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-2.jpg) [![](https://camo.githubusercontent.com/cd5ad3be578cecb0daa5f35349b08370ba66d254831359c301537e041a39bf44/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468332e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-3.jpg)
+[![](https://camo.githubusercontent.com/64b345fa5e99a899c8fc0fb4de6af04e8b64410f16770c604a6a364e2c746df8/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468312e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-1.jpg) [![](https://camo.githubusercontent.com/47ebad576c2f1f2c16bc381fbddbda7c0e4df02952f614e73733a9412ff802a9/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468322e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-2.jpg) [![](https://camo.githubusercontent.com/cd5ad3be578cecb0daa5f35349b08370ba66d254831359c301537e041a39bf44/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468332e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-3.jpg)
 
 [![](https://camo.githubusercontent.com/f13e974dc136048bb06edb0835dc53e51a9c6e441769815106e541ecf95fe1f1/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468342e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-4.jpg) [![](https://camo.githubusercontent.com/bf5292d57e71e3edb0d9c24fc820a9af4e11de3de061f18c0af72b5b550b278b/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468352e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-5.jpg) [![](https://camo.githubusercontent.com/19392aeca10341351c96b97a50bfa0e17e210db43470a90265af05b5f7a3174e/68747470733a2f2f626974746f7069612d756e69766572736974792e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f616e6e75616c2d7265706f72742d302f7468756d626e61696c732f626974746f7069612d756e69766572736974792d73616e63726973746f62616c2d7468362e6a7067)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-6.jpg)
 
@@ -228,7 +232,7 @@ Once we arrived in Acapulco, the city in which Anarchapulco was being hosted, we
 
 #### 2.2.2 Workshop: How to Get a Swiss Bank in Your Pocket
 
-We had put together a tailor-made curriculum for the event. This two-hour workshop was priced at $99 USD per person:   
+We had put together a tailor-made curriculum for the event. This two-hour workshop was priced at $99 USD per person:  
 [https://anarchapulco.com/product/how-to-get-a-swiss-bank-in-your-pocket/](https://anarchapulco.com/product/how-to-get-a-swiss-bank-in-your-pocket/)
 
 ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-workshop-anarchapulco.jpg)
@@ -313,9 +317,9 @@ Unfortunately, due to the events of 2020 and COVID-19, we realised that the even
 
 As such, we had to forfeit $1,150.00 USD.
 
-Proof of payments:   
-1. [https://www.blockchain.com/btc/tx/4cd87a244e7761b09a9317e7faf914cfff33462cea5bcd19360bbe8976c49925](https://www.blockchain.com/btc/tx/4cd87a244e7761b09a9317e7faf914cfff33462cea5bcd19360bbe8976c49925)   
-2. [https://www.blockchain.com/btc/tx/7381e9088d8e9f4273556ad6ce9260c3068b07744b21468df4abdd0add827141](https://www.blockchain.com/btc/tx/7381e9088d8e9f4273556ad6ce9260c3068b07744b21468df4abdd0add827141)   
+Proof of payments:  
+1. [https://www.blockchain.com/btc/tx/4cd87a244e7761b09a9317e7faf914cfff33462cea5bcd19360bbe8976c49925](https://www.blockchain.com/btc/tx/4cd87a244e7761b09a9317e7faf914cfff33462cea5bcd19360bbe8976c49925)  
+2. [https://www.blockchain.com/btc/tx/7381e9088d8e9f4273556ad6ce9260c3068b07744b21468df4abdd0add827141](https://www.blockchain.com/btc/tx/7381e9088d8e9f4273556ad6ce9260c3068b07744b21468df4abdd0add827141)  
 3. [https://www.blockchain.com/btc/tx/9470cae81a720d310eb8a26c27c923f3055345403872b1a5ea1c47a53ec17c01](https://www.blockchain.com/btc/tx/9470cae81a720d310eb8a26c27c923f3055345403872b1a5ea1c47a53ec17c01)
 
 ### 2.5 Episode 4: Paralelni Polis: Hackers Congress 2020 \#HCPP20
@@ -364,7 +368,7 @@ I had intended to include some videos in the Spanish language, though due to tim
 
 ### 3.1 Bittopia University: Episode 1-10 \(English\)
 
-List of episodes and links: 
+List of episodes and links:
 
 1. [EP1: Introductory Discussion](https://www.youtube.com/watch?v=fbSwmjuHI6Y)  
 2. [EP2: Crypto Ethics - Telegram, Bitcoin, Dash, Aragon, Hybrix](https://www.youtube.com/watch?v=hsLUdXAjHIM&t=1441s)   
@@ -379,13 +383,13 @@ List of episodes and links:
 
 #### 2.4.2 Bittopia University: Episode 1-7 \(Persian/Farsi\)
 
-List of episodes and links:   
-1. [بیت کوین چیست؟](https://www.youtube.com/watch?v=ZHnVakBGBdc)   
-2. [امنیت و حفاظت از بیت کوین](https://youtu.be/5WNtdSN100U)   
-3. [چگونه با خیال راحت خرید بیت کوین و وام با بیت کوین](https://youtu.be/bCALNWW8FgA)   
-4. [سازمانهای غیر متمرکز](https://youtu.be/rBVW6ArAVcw)   
-5. [درآمد منفعل با خواندن و نوشتن مقاله](https://youtu.be/o-asFaOmJWg)   
-6. [قبول پرداخت بیت کوین](https://youtu.be/X3wZnDytVxs)   
+List of episodes and links:  
+1. [بیت کوین چیست؟](https://www.youtube.com/watch?v=ZHnVakBGBdc)  
+2. [امنیت و حفاظت از بیت کوین](https://youtu.be/5WNtdSN100U)  
+3. [چگونه با خیال راحت خرید بیت کوین و وام با بیت کوین](https://youtu.be/bCALNWW8FgA)  
+4. [سازمانهای غیر متمرکز](https://youtu.be/rBVW6ArAVcw)  
+5. [درآمد منفعل با خواندن و نوشتن مقاله](https://youtu.be/o-asFaOmJWg)  
+6. [قبول پرداخت بیت کوین](https://youtu.be/X3wZnDytVxs)  
 7. [ارسال و دریافت معاملات بیت کوین](https://youtu.be/3L5GDyGBHOM)
 
 ## 4.0 Bittopia Docos Series
@@ -454,7 +458,7 @@ The following was written by Juraj Bednár, one of the co-founders of Paralelni 
 
 > "To make matters worse, many wallets \(including Coinomi or Trezor\) have integrated access to exchanges. So not all apps where you can change cryptocurrencies are automatically exchanged. In Coinomi or Trezor, you can exchange Litecoin for Bitcoin, for example, through stock market integration. However, the difference is that the currency sold on the exchange will go to the moment of the transaction and the selection of the purchased cryptocurrency will come to your wallet immediately. The exchange, therefore, has access to your money only for the duration of the transaction. This still doesn’t necessarily mean that the transfer will take place immediately \(even such an exchange will wait for the transaction to be confirmed and may sometimes ask for additional documents." -- [Cryptocurrency wallet vs exchange – what’s the difference?, 2020](https://bitcointipsandtricks.wordpress.com/2020/05/17/cryptocurrency-wallet-vs-an-exchange/)
 
-I reached out to Juraj to share my thoughts regarding the above comments. You can see the full conversation as well as other reasons as to why we stopped supporting Coinomi via the link below: 
+I reached out to Juraj to share my thoughts regarding the above comments. You can see the full conversation as well as other reasons as to why we stopped supporting Coinomi via the link below:
 
 {% page-ref page="../documents/why-we-stopped-supporting-coinomi-blockchain-wallet.md" %}
 
@@ -472,8 +476,8 @@ Since its inception, Bittopia University has grown organically, gathering a heal
 
 ## 6.0 Contributors & Collaborators
 
-We are looking for organizations to partner and collaborate with as well as individuals looking to contribute with their skills, knowledge, or financially. You can reach out to us via:   
-connect &lt;at&gt;  bittopia &lt;dot&gt; org
+We are looking for organizations to partner and collaborate with as well as individuals looking to contribute with their skills, knowledge, or financially. You can reach out to us via:  
+connect &lt;at&gt; bittopia &lt;dot&gt; org
 
 Alternatively, you can reach out via our telegram group or social media channels:
 
