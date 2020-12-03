@@ -17,12 +17,12 @@ Bitopia University has taken many years to go through its process of metamorphos
 
 This report outlines our progress over the last 12 months, which includes:
 
-* The registration of [Bittopia on the Ethereum Name Server \(ENS\)](2020-bittopia-university-annual-report-year0.md#11-Registration-on-the-Ethereum-Name-Server-ENS-BITTOPIAETH).
-* The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](2020-bittopia-university-annual-report-year0.md#12-Decentralized-Governance-Registered-on-Aragon).
-* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#13-Bittopia-University’s-Currency-BITT). 
-* The [registration of The Bittopia Foundation as a non-profit entity](2020-bittopia-university-annual-report-year0.md#14-Registration-of-The-Bittopia-Foundation-as-a-nonprofit-organization-in-Wyoming-USA) within the state of Wyoming, in the USA.
+* The registration of [Bittopia on the Ethereum Name Server \(ENS\)](2020-bittopia-university-annual-report-year0.md#1-1-registration-on-the-ethereum-name-server-ens-bittopia-eth).
+* The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](2020-bittopia-university-annual-report-year0.md#12-decentralized-governance-registered-on-aragon).
+* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#13-bittopia-university’s-currency-bitt). 
+* The [registration of The Bittopia Foundation as a non-profit entity](2020-bittopia-university-annual-report-year0.md#1-4-registration-of-the-bittopia-foundation-as-a-nonprofit-organization-in-wyoming-usa) within the state of Wyoming, in the USA.
 * The registration of our entity with a bank and gaining access to many fiat portals. 
-* An outline of our [purposes and goals](2020-bittopia-university-annual-report-year0.md#20-Chapter-1-Genesis).
+* An outline of our [purposes and goals](2020-bittopia-university-annual-report-year0.md#20-chapter-1-genesis).
 
 Apart from the logistics, the report includes workshops that we had hosted, as well as our participation within various events and interviews across the globe. These include:
 
