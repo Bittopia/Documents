@@ -18,29 +18,29 @@ Bitopia University has taken many years to go through its process of metamorphos
 This report outlines our progress over the last 12 months, which includes:
 
 * The registration of [Bittopia on the Ethereum Name Server \(ENS\)](2020-bittopia-university-annual-report-year0.md#1-1-registration-on-the-ethereum-name-server-ens-bittopia-eth).
-* The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](2020-bittopia-university-annual-report-year0.md#12-decentralized-governance-registered-on-aragon).
-* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#13-bittopia-university’s-currency-bitt). 
+* The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](2020-bittopia-university-annual-report-year0.md#1-2-decentralized-governance-registered-on-aragon).
+* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#1-3-bittopia-university’s-currency-bitt). 
 * The [registration of The Bittopia Foundation as a non-profit entity](2020-bittopia-university-annual-report-year0.md#1-4-registration-of-the-bittopia-foundation-as-a-nonprofit-organization-in-wyoming-usa) within the state of Wyoming, in the USA.
 * The registration of our entity with a bank and gaining access to many fiat portals. 
-* An outline of our [purposes and goals](2020-bittopia-university-annual-report-year0.md#20-chapter-1-genesis).
+* An outline of our [purposes and goals](2020-bittopia-university-annual-report-year0.md#2-0-chapter-1-genesis).
 
 Apart from the logistics, the report includes workshops that we had hosted, as well as our participation within various events and interviews across the globe. These include:
 
-* [Workshop 1: Introduction to Decentralization \(San Cristobal, Mexico\)](2020-bittopia-university-annual-report-year0.md#21-Episode-1-San-Cristobal--Mexico--Jan-2020).
-* [Workshop 2: How to Get a Swiss Bank in your Pocket \(Anarchapulco, Acapulco, Mexico\)](2020-bittopia-university-annual-report-year0.md#22-Episode-2-Anarchapulco--Acapulco-Mexico--Feb-2020).
+* [Workshop 1: Introduction to Decentralization \(San Cristobal, Mexico\)](2020-bittopia-university-annual-report-year0.md#2-1-episode-1-san-cristobal-or-mexico-or-jan-2020).
+* [Workshop 2: How to Get a Swiss Bank in your Pocket \(Anarchapulco, Acapulco, Mexico\)](2020-bittopia-university-annual-report-year0.md#2-2-episode-2-anarchapulco-or-acapulco-mexico-or-feb-2020).
 * Event 1: Speaking at Anarchapulco 2020 \(Acapulco, Mexico\).
 * Interview 1: Patriot Laments Radio.
 * Interview 2: The Crypto Show.
-* [Event 2: Speaking at Paralelni Polis's Hackers Congress HCPP20 \(Prague, Czech Republic\)](2020-bittopia-university-annual-report-year0.md#25-Episode-4-Paralelni-Polis-Hackers-Congress-2020-HCPP20).
-* [Interview 3: Criptonoticias](2020-bittopia-university-annual-report-year0.md#252-Interview-with-Criptonoticias).
+* [Event 2: Speaking at Paralelni Polis's Hackers Congress HCPP20 \(Prague, Czech Republic\)](2020-bittopia-university-annual-report-year0.md#2-5-episode-4-paralelni-polis-hackers-congress-2020-hcpp20).
+* [Interview 3: Criptonoticias](2020-bittopia-university-annual-report-year0.md#2-5-2-interview-with-criptonoticias).
 
 We expanded our reach by producing several videos in both English and Persian. Furthermore, a documentary was produced, which will become an extension of Bittopia's decentralized educational programs. These videos include:
 
-* Bittopia University, [Video Series, Season 1, Episodes 1-10 \(English\)](2020-bittopia-university-annual-report-year0.md#31-Bittopia-University-Episode-1-10-English).
+* Bittopia University, [Video Series, Season 1, Episodes 1-10 \(English\)](2020-bittopia-university-annual-report-year0.md#3-1-bittopia-university-episode-1-10-english).
 * Bittopia University, [Video Series, Season 1, Episodes 1-7 \(Persian\)](2020-bittopia-university-annual-report-year0.md#242-Bittopia-University-Episode-1-7-PersianFarsi).
-* Bittopia University [Docos Series: El Caracol \(The Snail\)](2020-bittopia-university-annual-report-year0.md#41-Docos-Series-El-Caracol-The-Snail).
+* Bittopia University [Docos Series: El Caracol \(The Snail\)](2020-bittopia-university-annual-report-year0.md#4-1-docos-series-el-caracol-the-snail).
 
-Lastly, the report includes some of the [challenges and opportunities](2020-bittopia-university-annual-report-year0.md#50-Challenges-amp-Opportunities) that we had faced throughout the year. The next step forward from here is to:
+Lastly, the report includes some of the [challenges and opportunities](2020-bittopia-university-annual-report-year0.md#5-0-challenges-and-opportunities) that we had faced throughout the year. The next step forward from here is to:
 
 * Complete the redesign of the Bittopia University website to allow people to register as students, join groups, and engage with one another. 
 * Initiate the marketing phase, through various the various platforms and channels available to us. 
