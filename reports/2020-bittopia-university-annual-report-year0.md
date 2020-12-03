@@ -49,7 +49,7 @@ We expanded our reach by producing several videos in both English and Persian. F
 Lastly, the report includes some of the [challenges and opportunities](2020-bittopia-university-annual-report-year0.md#5-0-challenges-and-opportunities) that we had faced throughout the year. The next step forward from here is to:
 
 * Complete the redesign of the Bittopia University website to allow people to register as students, join groups, and engage with one another. 
-* Initiate the marketing phase, through various the various platforms and channels available to us. 
+* Initiate the marketing phase, through the various platforms and channels available to us. 
 * Implement the first stage of services so that we can begin the process of decentralization as per design. 
 
 ### Background
