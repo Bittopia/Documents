@@ -19,7 +19,7 @@ description: >-
 
 ### Summary \(TL;DR\)
 
-Bitopia University has taken many years to go through its process of metamorphosis, manifesting to its current form. It is the result of over 8 years of fulltime experience within the cryptosphere, across various projects and continents.
+Bitopia University has taken many years to go through its process of metamorphosis, manifesting to its current form. It is the result of over 8 years of full-time experience within the cryptosphere, across various projects and continents.
 
 This report outlines our progress over the last 12 months, which includes:
 
