@@ -9,18 +9,18 @@
 - Student pre-enrollments: 33 Students
 
 ## Summary (TL;DR)
-Bitopia University has taken many years to go through its process of metamorphesis, manifesting to its current form. It is the result of over 8 years of fulltime exprience within the cryptosphere, across various projects and continents.
+Bitopia University has taken many years to go through its process of metamorphosis, manifesting to its current form. It is the result of over 8 years of fulltime experience within the cryptosphere, across various projects and continents.
 
 This report outlines our progress over the last 12 months, which includes:
 
 - The registration of [Bittopia on the Ethereum Name Server (ENS)](#11-Registration-on-the-Ethereum-Name-Server-ENS-BITTOPIAETH).
 - The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](#12-Decentralized-Governance-Registered-on-Aragon).
 - The [creation of Bittopia's own currency: BITT](#13-Bittopia-University’s-Currency-BITT). 
-- The [registation of The Bittopia Foundation as a non-profit entity](#14-Registration-of-The-Bittopia-Foundation-as-a-nonprofit-organization-in-Wyoming-USA) within the state of Wyoming, in USA.
+- The [registation of The Bittopia Foundation as a non-profit entity](#14-Registration-of-The-Bittopia-Foundation-as-a-nonprofit-organization-in-Wyoming-USA) within the state of Wyoming, in the USA.
 - The registration of our entity with a bank and gaining access to many fiat portals. 
 - An outline of our [purposes and goals](#20-Chapter-1-Genesis).
 
-Apart from the logistics, the report inlcudes workshops that we had hosted, as well as our participation within various events and interviews across the globe. These include:
+Apart from the logistics, the report includes workshops that we had hosted, as well as our participation within various events and interviews across the globe. These include:
 
 - [Workshop 1: Introduction to Decentralization (San Cristobal, Mexico)](#21-Episode-1-San-Cristobal--Mexico--Jan-2020).
 - [Workshop 2: How to Get a Swiss Bank in your Pocket (Anarchapulco, Acapulco, Mexico)](#22-Episode-2-Anarchapulco--Acapulco-Mexico--Feb-2020).
@@ -30,12 +30,12 @@ Apart from the logistics, the report inlcudes workshops that we had hosted, as w
 - [Event 2: Speaking at Paralelni Polis's Hackers Congress HCPP20 (Prague, Czech Republic)](#25-Episode-4-Paralelni-Polis-Hackers-Congress-2020-HCPP20).
 - [Interview 3: Criptonoticias](#252-Interview-with-Criptonoticias).
 
-We expanded our reach by producing a number of videos in both English and Persian. Furthremore, a documentary was produced, which will become an extension of Bittopia's decentralized educational programs. These videos include:
+We expanded our reach by producing several videos in both English and Persian. Furthermore, a documentary was produced, which will become an extension of Bittopia's decentralized educational programs. These videos include:
 - Bittopia University, [Video Series, Season 1, Episodes 1-10 (English)](#31-Bittopia-University-Episode-1-10-English).
 - Bittopia University, [Video Series, Season 1, Episodes 1-7 (Persian)](#242-Bittopia-University-Episode-1-7-PersianFarsi).
 - Bittopia University [Docos Series: El Caracol (The Snail)](#41-Docos-Series-El-Caracol-The-Snail).
 
-Lastly, the report includes some the [challenges and opportunities](#50-Challenges-amp-Opportunities) that we had faced throughout the year. The next step forward from here is to:
+Lastly, the report includes some of the [challenges and opportunities](#50-Challenges-amp-Opportunities) that we had faced throughout the year. The next step forward from here is to:
 
 - Complete the redesign of the Bittopia University website to allow people to register as students, join groups, and engage with one another. 
 - Initiate the marketing phase, through various the various platforms and channels available to us. 
@@ -514,4 +514,5 @@ connect <at> bittopia <dot> org
 Alternatively, you can reach out via our telegram group or social media channels:
 
 Telegram: https://t.me/bittopia_u
+
 Twitter: https://twitter.com/BITTOPIA_
