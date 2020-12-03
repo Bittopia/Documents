@@ -1,6 +1,6 @@
 # Bittopia University Annual Report: Year 0 \| 2019-20
 
-## Bittopia University Annual Report: Year 0 \(Draft\)
+## Bittopia University Annual Report: Year 0
 
 #### Social Media Networks
 
@@ -19,7 +19,7 @@ This report outlines our progress over the last 12 months, which includes:
 
 * The registration of [Bittopia on the Ethereum Name Server \(ENS\)](2020-bittopia-university-annual-report-year0.md#1-1-registration-on-the-ethereum-name-server-ens-bittopia-eth).
 * The formation of [The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform](2020-bittopia-university-annual-report-year0.md#1-2-decentralized-governance-registered-on-aragon).
-* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#1-3-bittopia-university’s-currency-bitt). 
+* The [creation of Bittopia's own currency: BITT](2020-bittopia-university-annual-report-year0.md#1-3-bittopia-universitys-currency-bitt). 
 * The [registration of The Bittopia Foundation as a non-profit entity](2020-bittopia-university-annual-report-year0.md#1-4-registration-of-the-bittopia-foundation-as-a-nonprofit-organization-in-wyoming-usa) within the state of Wyoming, in the USA.
 * The registration of our entity with a bank and gaining access to many fiat portals. 
 * An outline of our [purposes and goals](2020-bittopia-university-annual-report-year0.md#2-0-chapter-1-genesis).
