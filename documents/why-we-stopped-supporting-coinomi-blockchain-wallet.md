@@ -82,11 +82,11 @@ https://invity.io/exchange-crypto
 ## 5.0 Room for Improvement 
 Coinomi could improve their integrity by having an open-source version of their blockchain wallet. They can also implement a similar feature to that of Trezor, so that the end-user has an idea of what they are getting into, and the risk involved with the in-wallet exchanges. 
 
-As for the partnership, after some search we came across a well known blockchain wallet developed by BRD. The BRD website (https://brd.com/) offered an easy way to form a partnership. They contacted us within a few days of submitting our application to move forward on the discussion. This shows that they have thought about the bigger picture, to form unions with those wishing to support their project. 
+As for the partnership, our research pointed us to a well known blockchain wallet developed by BRD. The BRD website offered an easy way to [form a partnership](https://brd.com/partners). They contacted us within a few days of submitting our application to move forward on the discussion. This shows that they have thought about the bigger picture, to form unions with those wishing to support their project. 
 
 Furthermore, the BRD blockchain wallet is open-source, thus respecting the principles of the space that has allowed them to develop using existing open-source technologies. If decentralized cryptocurrencies were not open-source, these organizations would never have been able to create what they have as easily, without permission, while financially benefiting from it. 
 
->We believe in trust through transparency. Our core wallet technology is, and will always be, open-source and free. We invite anyone to use our code according to the terms of the MIT open-source license.
+>We believe in trust through transparency. Our core wallet technology is, and will always be, open-source and free. We invite anyone to use our code according to the terms of the MIT open-source license. -- BRD.com, 2020
 
 It would be great to see BRD support a greater range of coins, such as Litecoin and Monero, though for the time-being, BRD have provide the necessary framework and principles for us to collaborate with them. 
 
