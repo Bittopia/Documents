@@ -80,11 +80,13 @@ https://invity.io/exchange-crypto
 >Another good thing would be to have setting not to show you those services that require KYC for refunds. Like a checkbox.
 
 ## 5.0 Room for Improvement 
-Coinomi could improve it's integrity by having an open-source version of it's blockchain wallet. They can also implement a similar feature to that of Trezor, so that the end-user has an idea of what they are getting into, and the risk involved with the in-wallet exchanges. 
+Coinomi could improve their integrity by having an open-source version of their blockchain wallet. They can also implement a similar feature to that of Trezor, so that the end-user has an idea of what they are getting into, and the risk involved with the in-wallet exchanges. 
 
-As for the partnership, the BRD wallet (https://brd.com/) offers an easy way to form a partnership. They contacted us within a few days of submitting our application to move forward. This shows that they have thought about the bigger picture, to form unions with those wishing to support their project. 
+As for the partnership, after some search we came across a well known blockchain wallet developed by BRD. The BRD website (https://brd.com/) offered an easy way to form a partnership. They contacted us within a few days of submitting our application to move forward on the discussion. This shows that they have thought about the bigger picture, to form unions with those wishing to support their project. 
 
-Furthermore, the BRD blockchain wallet is open-source, thus respecting the principles of the space that has allowed them to innovate on existing open-source technologies. If decentralized cryptocurrencies were not open-source, these organizations would never have been able to create what they have as easily, without permission, while financially benefiting from it. 
+Furthermore, the BRD blockchain wallet is open-source, thus respecting the principles of the space that has allowed them to develop using existing open-source technologies. If decentralized cryptocurrencies were not open-source, these organizations would never have been able to create what they have as easily, without permission, while financially benefiting from it. 
 
-It would be great to see BRD support a greater range of coins, such as Litecoin and Monero, though for the time-being, they provide the necessary framework for us to collaborate with them. 
+>We believe in trust through transparency. Our core wallet technology is, and will always be, open-source and free. We invite anyone to use our code according to the terms of the MIT open-source license.
+
+It would be great to see BRD support a greater range of coins, such as Litecoin and Monero, though for the time-being, BRD have provide the necessary framework and principles for us to collaborate with them. 
 
