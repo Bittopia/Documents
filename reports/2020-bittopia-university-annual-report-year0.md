@@ -202,7 +202,6 @@ Read the full report for the San Cristobal Event:
 
 [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-sancristobal-th7.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-7.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-sancristobal-th8.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-8.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-sancristobal-th9.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-sancristobal-9.jpg)
 
-
 #### 2.1.4 Video Recap
 
 {% embed url="https://youtu.be/3qtxoL5XnEk" caption="" %}
@@ -269,7 +268,6 @@ We had put together a tailor-made curriculum for the event. This two-hour worksh
 [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-7_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-7.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-8_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-8.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-9_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-9.jpg)
 
 [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-10_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-10.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-11_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-11.jpg) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/thumbnails/bittopia-university-anarchapulco-12_tn.jpg)](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-0/bittopia-university-anarchapulco-12.jpg)
-
 
 #### 2.2.4 Video Recap
 
