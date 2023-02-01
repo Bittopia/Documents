@@ -1,12 +1,14 @@
 # Bittopia University Annual Report: Year 3 (2022) Courses, Swarm Grant, Swiss University Collaboration
 ## Summary (TL;DR)
 
-This report outlines our progress over the last 12 months, which includes:
-* The registration of Bittopia on the Ethereum Name Server (ENS).
-* The formation of The Bittopia Foundation as a Decentralized Autonomous University on the Aragon platform.
-* The creation of Bittopia's own currency: BITT. 
-* The registration of The Bittopia Foundation as a non-profit entity within the state of Wyoming, in the USA.
-* The registration of our entity with a bank and gaining access to many fiat portals. 
+The focus of 2022 was on funding, partnerships, and marketing. This report outlines our progress over the last 12 months, which includes:
+* Bittopia University launched 2 courses with great success and positive feedback. 
+* Students were rewarded for their contributions. We handed out scholarships and discounts for attending our courses. 
+* Bittopia University won a grant from the Swarm Association’s Council to develop our decentralized system architecture, integrating Swarm's protocol to be used for our storage layer. 
+* Bittopia University partnered and collaborated with FHNW University in Switzerland to develop a course on DAOs.
+* Students of the FHNW University School of Applied Sciences and Arts in Switzerland were given access to the first-ever Decentralized Autonomous Organization (DAO) course thanks to the collaboration with Bittopia University. 
+* Around $50 USD in BTC was handed out to students who contributed to the learning process. 
+* Bittopia University was presented in Zurich and Prague during two powerful events: SheLeadsTech and Hackers Congress 2022. 
 
 
 ## Background
@@ -14,21 +16,23 @@ To read our previous annual report please check the links below:
 
 2022 marked our first year towards building momentum and expanding our network, each, and growth. 
 
-Our main focus was on marketing, funding, and partnerships. We entered the eyar with the beginning of the bear market, which made raising funds more challenging for all projects.
+Our main focus was on marketing, funding, and partnerships. We entered the year with the beginning of the bear market, which made raising funds more challenging for all projects.
 
-Despite the challenges, we successfully won a grant with a well known project called Swarm, partnered with a University out of Switzerland to co-create a course on DAOs, and successfully launched two courses where students were rewarded in accordance to our incentive model. 
-  
-In this document we will explore these opportunities and highlight our future goals. 
+Despite the challenges, we successfully won a grant with a well-known project called Swarm, partnered with a University out of Switzerland to co-create a course on DAOs, and successfully launched two courses where students were rewarded in accordance with our incentive model. 
+	
+In this document, we will explore these opportunities and highlight our future goals. 
 
 ## 1.0 Courses
-Bittopia University launched with 2 courses in the beginning of 2022. These included:
+Bittopia University launched 2 courses at the beginning of 2022. These included:
 
-- Swiss Bank in Your Pocket
-- Re-Claim Your Digital Privacy
 
-To our surprise the _Re-Claim Your Digital Privacy_ course was much more popular than then the crypto course, perhaps due to the current events around the world and the loss of privacy as a result.
 
-Furthermore, the _Re-Claim Your Digital Privacy_ course consisted mostly of mothers who were concerned about the future of their children, wanting to know more about how they can protect their family from the constant introduction of new techs by bigtech, many of which infringe upon peoples sense of privacy and freedom.
+| ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-how-to-get-swiss-bank-your-pocket.jpg) [Swiss Bank in Your Pocket](https://mybu.bittopia.org/courses/how-to-get-a-swiss-bank-in-your-pocket/)  | ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-reclaim-digital-privacy.jpg) [Re-Claim Your Digital Privacy](https://mybu.bittopia.org/courses/re-claim-your-digital-privacy-freedom/) | 
+| -------- | -------- |
+
+To our surprise, the _Re-Claim Your Digital Privacy_ course was much more popular than than the crypto course, perhaps due to the current events around the world and the loss of privacy as a result.
+
+Furthermore, the _Re-Claim Your Digital Privacy_ course consisted mostly of mothers who were concerned about the future of their children, wanting to know more about how they can protect their family from the constant introduction of new techs by Big Tech, many of which infringe upon peoples sense of privacy and freedom.
 
 As one student mentioned in her feedback form:
 
@@ -38,18 +42,18 @@ The summary of these courses can be found in the news section on Bittopia Univer
 
 ### 1.1 Accessed by Students Across The Planet
 
-Currently, we have students enrolled from various countries such as Australia, Malaysia, USA, New Zealand, Canada, Singapore, and we expect to continue reaching people all over the world.
+Currently, we have students enrolled from various countries such as Australia, Malaysia, USA, New Zealand, Canada, and Singapore, and we expect to continue reaching people all over the world.
 
 ### 1.2 Incentivizing Education: BITX
-In our system architecture, the token allows for the exchange of goods and services, and this is how Bittopia University rewards its students. Thus, the token facilitates access to information, payment for courses, decentralized libraries, among others.
+In our system architecture, the token allows for the exchange of goods and services, and this is how Bittopia University rewards its students. Thus, the token facilitates access to information, payment for courses, and decentralized libraries, among others.
 
-Students who support their peers through the learning process, successfully complete the courses, or contribute knowledge will receive Bittopia’s native token, BITX, as a reward.
+Students who support their peers through the learning process, successfully complete the courses or contribute knowledge will receive Bittopia’s native token, BITX, as a reward.
 
 For example, through our masterclass, the prelude to our courses, we rewarded the people who were attentive, helping out their peers in the chat room, and those that demonstrated a keen ability for learning.
 
 They were blown away to be able to use that reward to get a discount towards their enrollment. 
 
->As a part of the Bittopia framwork, we incentivize the student process, reward contributors, and offer scholarships. 
+>As a part of the Bittopia framework, we incentivize the student process, reward contributors, and offer scholarships. 
 
 > It is my pleasure Amanda based on your contribution and willingness to guide others during the class to offer you a scholarship for our next class or any future classes for the amount of $200 USD. 🎉💫 We will email you the details. 
 
@@ -89,11 +93,13 @@ We had originally considered Storj, though their system architecture has gone th
 
 ### 2.2 Proposal
 
-The proposal we had submitted to Swarm listed our desire to integrate their system for the purpose of storing student profiles, course meta data, as well as the course content itself (audios and videos). 
+The proposal we had submitted to Swarm listed our desire to integrate their system for the purpose of storing student profiles, course metadata, as well as the course content itself (audio and videos). 
 
-Bittopia is an online and in person educational platform. With an initial focus on educating around practical cryptography usage, Bittopia now supports courses for all subjects. Bittopia is designed to become increasingly decentralized and permissionless, to provide access to topics that may be subject to censorship in some regions or platforms. Beyond content hosting, course communication, and assignment grading, Bittopia will offer crypto credentials for those completing courses. 
+The following was our proposal:
 
-The default license for courses is Creative Commons but it is up to each educator to determine their own.
+>Bittopia is an online and in person educational platform. With an initial focus on educating around practical cryptography usage, Bittopia now supports courses for all subjects. Bittopia is designed to become increasingly decentralized and permissionless, to provide access to topics that may be subject to censorship in some regions or platforms. Beyond content hosting, course communication, and assignment grading, Bittopia will offer crypto credentials for those completing courses. 
+
+>The default license for courses is Creative Commons but it is up to each educator to determine their own.
 
 
 ### 2.2.1 Swarm Course
@@ -121,17 +127,17 @@ Estimated time: 4 weeks following Milestone 2
 
 ### 2.2.5 Video Hosting 
 
-Bittopia's educators will be able to choose to upload their videos to Swarm via [Eterna](https://etherna.io/); providing a censorship resistant alternative to YouTube. 
+Bittopia's educators will be able to choose to upload their videos to Swarm via [Eterna](https://etherna.io/); providing a censorship-resistant alternative to YouTube. 
 
 ## 3.0 University Collaboration: FHNW Switzerland
 Students of the FHNW University School of Applied Sciences and Arts were given access to the first-ever Decentralized Autonomous Organization (DAO) course thanks to the collaboration with Bittopia University. The event marks a milestone for the education system, where traditional education merges with decentralized education in the name of knowledge.
 
-![](https://i.imgur.com/ekdxn3y.png)
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/FHNW.png)
 
 
 Bittopia, the world's first decentralized university, recently partnered with The School of Applied Sciences and Arts at FHNW University of Switzerland to offer a hybrid course on the key roles and operations in Decentralized Autonomous Organizations (DAOs) in today's world. This fusion marked the first time in history that decentralized and traditional education have worked together in such a hybrid model. 
 
-![](https://i.imgur.com/zwEmnU4.jpg)
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/amin-rafiee-switzerland-bittopia-university.png)
 
 
 >"It's exciting to see a new educational movement taking shape, where traditional institutions merge with decentralized institutions to bring a unique and entirely useful set of knowledge to future professionals. Co-developing this course with a reputable university like FHNW Switzerland has been a unique opportunity to showcase the potential of decentralized technologies," says Rafiee.
@@ -140,7 +146,7 @@ Bittopia, the world's first decentralized university, recently partnered with Th
 
 On the 8th of December, 2022, Amin Rafiee was invited to share his knowledge on DAOs in [Zurich](https://www.isaca.ch/de/weiterbildung/after-hours-seminare/sheleadstech/removing-hierarchies-the-potential-of-blockchain-technology-to-leverage-decentralized-decision-making-in-corporations.html). 
 
-![](https://i.imgur.com/wdD8PRS.png)
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-collaboration-switzerland.png)
 via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7004338527060566016/)
 
 
@@ -149,7 +155,7 @@ via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:700433852706
 
 The event was a great success with participants attending IRL and via video conference. 
 
-![](https://i.imgur.com/Z9GSF5k.png)
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-amin-rafiee-sheleadstech.png)
 Via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7007614427206189056/) 
 
 
@@ -157,29 +163,33 @@ Via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:700761442720
 
 
 ### 3.2 Future Collaborations
-The successful collaboration with FHNW marks our first step towards collaborating with other Universities that are open to enhancing their outdated curriculum's and opening their doors to a new form of knowledge beyond their scope. 
+The successful collaboration with FHNW marks our first step towards collaborating with other Universities that are open to enhancing their outdated curriculum and opening their doors to a new form of knowledge beyond their scope. 
 
 ## 4.0 Hackers Congress 2022 | Paralelní Polis
 
-Bittopia University's founder and CEO, Amin Rafiee, was invited to speak at the hackers congress in Prague. This was his 8th year as a speaker. 
+Bittopia University's founder and CEO, Amin Rafiee, was invited to speak at the [Hackers Congress](https://last-shot.hcpp.cz/) in Prague. This was his 8th year as a speaker. 
 
-![](https://i.imgur.com/88Sa3zE.png)
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/hcpp22-cover.png)
 
 
 "Hackers Congress Paralelní Polis (HCPP) is the flagship event of Paralelní Polis, which since 2014 has been regularly attended by over 500 fans and IT experts from all over the world."
 
-Amin Rafiee hosted a workshop at HCPP22, in which more than 50 people attended. Amin shared the curriculum to Bittopia's Digital Privacy Course, and explained that ideas need to be translated into a format that people can easily understand and relate to. As most often people within the tech space have a hard time explaining things to people who non-tech minded. 
+Amin Rafiee hosted a workshop at HCPP22, in which more than 50 people attended. Amin shared the curriculum to Bittopia's Digital Privacy Course and explained that ideas need to be translated into a format that people can easily understand and relate to. As most often people within the tech space have a hard time explaining things to people who non-tech minded. 
+
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/amin-rafiee-speaker-hcpp22.png)
 
 Amin also showed the feedback from the students that participated in the course and the impact these courses have had. 
+
+{% embed url="https://www.youtube.com/watch?v=MDJLELT0fpw" caption="HCPP22 Last Shot Aftermovie" %}
 
 ## 5.0 Challenges & Opportunities
 The downturn in the crypto market and global recession as made it difficult to raise capital. Though despite that we have pushed forward to continue our mission is decentralizing education and knowledge. 
 
-No matter where we go, we see a great deal of interest towards our model and incentive protocol. Majority of people immediatly grasp the benefits and necessity. 
+No matter where we go, we see a great deal of interest towards our model and incentive protocol. The majority of people immediately grasp the benefits and necessities. 
 
-On the other hand, some people have a hard time seeing Bittopia beyond what Udemy and Coursea are. Often people want to associate a new thing with something they already know. Though Bittopia is new in its design and as such, old ways of thinking cant render the Bittopia vision. 
+On the other hand, some people have a hard time seeing Bittopia beyond what Udemy and Coursera are. Often people want to associate a new thing with something they already know. Though Bittopia is new in its design and as such, old ways of thinking cant render the Bittopia vision. 
 
-Moving forward, for the year 2023, we aim to connect with more Universities, and apply for more grants to keep on building our decentralized architecture. 
+Moving forward, for the year 2023, we aim to connect with more Universities and apply for more grants to keep on building our decentralized architecture. 
 
 
 
