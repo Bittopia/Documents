@@ -144,11 +144,12 @@ Bittopia, the world's first decentralized university, recently partnered with Th
 
 ### 3.1 She Leads Tech: 
 
-On the 8th of December, 2022, Amin Rafiee was invited to share his knowledge on DAOs in [Zurich](https://www.isaca.ch/de/weiterbildung/after-hours-seminare/sheleadstech/removing-hierarchies-the-potential-of-blockchain-technology-to-leverage-decentralized-decision-making-in-corporations.html). 
+On the 8th of December, 2022, Amin Rafiee was invited to share his [knowledge on DAOs in Zurich](https://www.isaca.ch/de/weiterbildung/after-hours-seminare/sheleadstech/removing-hierarchies-the-potential-of-blockchain-technology-to-leverage-decentralized-decision-making-in-corporations.html). 
+
 
 ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-collaboration-switzerland.png)
-via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7004338527060566016/)
 
+via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7004338527060566016/)
 
 
 > Our Speaker, Amin Rafiee, is the founder of the world’s first decentralized university Bittopia University: Decentralized Autonomous University. He will share his experience with us by elaborating on decentralized decision-making and the potential of blockchain and DAO.
@@ -156,9 +157,10 @@ via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:700433852706
 The event was a great success with participants attending IRL and via video conference. 
 
 ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-amin-rafiee-sheleadstech.png)
+
 Via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7007614427206189056/) 
 
-
+### 3.1.1 Feedback
 >And very happy for the participation and feedback received for the hybrid event in early December on DAO and blockchain with Amin Rafiee in collaboration with prof. Bettina Schneider. - SheLeadsTech Switzerland via [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7011431742192369665/)
 
 
