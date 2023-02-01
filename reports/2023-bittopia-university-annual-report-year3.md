@@ -25,10 +25,7 @@ In this document, we will explore these opportunities and highlight our future g
 ## 1.0 Courses
 Bittopia University launched 2 courses at the beginning of 2022. These included:
 
-
-
-| ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-how-to-get-swiss-bank-your-pocket.jpg) [Swiss Bank in Your Pocket](https://mybu.bittopia.org/courses/how-to-get-a-swiss-bank-in-your-pocket/)  | ![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-reclaim-digital-privacy.jpg) [Re-Claim Your Digital Privacy](https://mybu.bittopia.org/courses/re-claim-your-digital-privacy-freedom/) | 
-| -------- | -------- |
+[![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-how-to-get-swiss-bank-your-pocket.jpg)](https://mybu.bittopia.org/courses/how-to-get-a-swiss-bank-in-your-pocket) [![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-reclaim-digital-privacy.jpg)](https://mybu.bittopia.org/courses/re-claim-your-digital-privacy-freedom/) 
 
 To our surprise, the _Re-Claim Your Digital Privacy_ course was much more popular than than the crypto course, perhaps due to the current events around the world and the loss of privacy as a result.
 
@@ -185,14 +182,11 @@ Amin also showed the feedback from the students that participated in the course 
 {% embed url="https://www.youtube.com/watch?v=MDJLELT0fpw" caption="HCPP22 Last Shot Aftermovie" %}
 
 ## 5.0 Challenges & Opportunities
-The downturn in the crypto market and global recession as made it difficult to raise capital. Though despite that we have pushed forward to continue our mission is decentralizing education and knowledge. 
+The downturn in the crypto market and global recession as made it challenging to raise capital. Though despite that we have pushed forward to continue our mission is decentralizing education and knowledge. 
 
 No matter where we go, we see a great deal of interest towards our model and incentive protocol. The majority of people immediately grasp the benefits and necessities. 
 
 On the other hand, some people have a hard time seeing Bittopia beyond what Udemy and Coursera are. Often people want to associate a new thing with something they already know. Though Bittopia is new in its design and as such, old ways of thinking cant render the Bittopia vision. 
 
-Moving forward, for the year 2023, we aim to connect with more Universities and apply for more grants to keep on building our decentralized architecture. 
-
-
-
+Moving forward, for the year 2023, we aim to connect with more Universities, offers more courses, expand the number of students we have enrolled, and apply for more grants to keep on building our decentralized architecture. 
 
