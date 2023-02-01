@@ -188,7 +188,7 @@ No matter where we go, we see a great deal of interest towards our model and inc
 
 On the other hand, some people have a hard time seeing Bittopia beyond what Udemy and Coursera are. Often people want to associate a new thing with something they already know. Though Bittopia is new in its design and as such, old ways of thinking cant render the Bittopia vision. 
 
-The development of ChatGP means that now we can start implementing an important part of our system architecture, the course builder. With this, it means that people can easily interact with an ML/AI system that can assist them with building their course.
+The development of ChatGPT means that now we can start implementing an important part of our system architecture that we had predetermined, the course builder. Once this is implemented, people can easily interact with an ML/AI system that can assist them with building their course.
 
 Moving forward, for the year 2023, we aim to connect with more Universities and organizations, offers more courses, expand the number of students we have enrolled, and apply for more grants to keep on building our decentralized architecture. 
 
