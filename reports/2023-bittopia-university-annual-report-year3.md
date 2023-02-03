@@ -5,6 +5,7 @@ The focus of 2022 was on funding, partnerships, and marketing. This report outli
 * Bittopia University launched 2 courses with great success and positive feedback. 
 * Students were rewarded for their contributions. We handed out scholarships and discounts for attending our courses. 
 * Bittopia University won a grant from the Swarm Association’s Council to develop our decentralized system architecture, integrating Swarm's protocol to be used for our storage layer. 
+* Bittopia University partnered with several powerful organizations to increase our reach, utilize machine learning and VR technologies, provide students with over 1,800 decentralized locations around the world, and empower students with the support of entrepreneurs, business mentors and coaches.
 * Bittopia University partnered and collaborated with FHNW University in Switzerland to develop a course on DAOs.
 * Students of the FHNW University School of Applied Sciences and Arts in Switzerland were given access to the first-ever Decentralized Autonomous Organization (DAO) course thanks to the collaboration with Bittopia University. 
 * Around $50 USD in BTC was handed out to students who contributed to the learning process. 
@@ -181,7 +182,66 @@ Amin also showed the feedback from the students that participated in the course 
 
 {% embed url="https://www.youtube.com/watch?v=MDJLELT0fpw" caption="HCPP22 Last Shot Aftermovie" %}
 
-## 5.0 Challenges & Opportunities
+## 5.0 Partnerships
+
+Bittopia University partnered with several powerful organizations to increase our reach and utilize existing services to support future students. 
+
+### 5.1 Finfluencers Replace Outdated Ivy League MBAs In Crypto Industry
+
+Can universities keep up with crypto? A new partnership announced between SyncDAO and Bittopia seeks to find out and disrupt traditional finance education at its core.
+
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-syncdao-partnership.jpg)
+
+> “We see this industry moving so fast, in any given six week period the entire landscape can fundamentally change. Universities simply are not going to be able to pivot their curriculums quickly enough”, says Rossco Paddison, SyncDAO Co-founder
+
+The premise not only proposes a new way to delegate responsibilities of both knowledgeflow and cashflow, but also sets the audacious precedent of replacing the ‘graduate with debt’ student stereotype, with ‘graduate with a residual income’.
+
+The mechanics of this learning model not only orientate the students to the day-to-day realities of crypto and the DeFi sector, but also acquaint them with the intricacies of operating a decentralised project through course delivery method. The student fees are converted into BITT tokens and allocated to the course treasury. These tokens are then disbursed to the mentors, oracles and top ranked students to incentivise learning and maintain the operational framework of the programme.
+
+> “Education should be haptic to the reality around it, this can only be done by having real world lecturers from the frontlines of this lightening fast DeFi sector”, says Amin Rafiee, Bittopia Founder
+
+Full Article: https://medium.com/syncdao/finfluencers-replace-outdated-ivy-league-mbas-in-crypto-industry-ae03eaf733a5
+
+### 5.2 Partnership with Seats2meet will give Bittopia students access to more than 1,800 innovative workspaces worldwide
+
+Bittopia University students will have access to innovative coworking spaces in more than 200 locations worldwide. They can use these spaces to exchange knowledge with professionals and entrepreneurs from various sectors and nationalities.
+
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-seats2meet-partnership.png)
+
+In line with its innovative proposal for Decentralized Education, Bittopia University seals an alliance with Seats2meet, the pioneer coworking company in today’s planetary market. Through this alliance, Bittopia students are able to access the benefits offered by the spaces, both physical and digital, of the most complete platform designed for autonomous persons.
+
+> The alliance with Seats2meet allows our students access to more than 1,800 decentralized workspaces over the world. They will also have the opportunity to exchange knowledge with other professionals and expand their network of contacts.
+
+> In the future, specific locations will be equipped with VR Headsets provided by Bittopia, so that students can access VR classrooms for an immersive learning experience. - Amin Rafiee, Founder & CEO, Bittopia University
+
+Full Article: https://bittopia.org/news/bittopia-partnership-seats2meet
+
+### 5.3 Immersive Learning: how Bittopia will transform education with virtual reality
+
+The possibility of studying and working remotely changed our perspective about the facilities technology offers us to develop our capacities.
+
+Now it is time to expand our horizons towards the impact and promise virtual reality holds as an immersive learning tool in training and education.
+
+![](https://bittopia-university.s3.eu-central-1.amazonaws.com/annual-report-22/bittopia-university-immersive-learning.jpg)
+
+Immersive education, through virtual reality (VR), is transforming the way professionals learn and train. Bittopia University in partnership with Parable, a cutting edge innovator in the development of immersive VR solutions for education, is shaping this new wave of learning, which will be launched on the world market in 2022.
+
+Amin Rafiee, founder and CEO of Bittopia, points out that decentralized education with an immersive learning method will offer an unprecedented experience and will be available to everyone. 
+>Immersive learning, unlike any other technology medium, empowers students to put their course knowledge to the test by interacting with content-rich, dynamic VR environments that simulate real-world scenarios and challenges.
+
+Full Article: https://bittopia.org/news/bittopia-university-immersive-learning
+
+### 5.4 Supporting the transfer of knowledge for future entrepreneurs
+Through this model, and the recent partnership with business coaches and mentors, Bittopia will bring a wealth of knowledge to students and guide them through their path to becoming masters of their own lane, not following trends, but rather setting trends.
+
+> This will give them sovereignty over large portions of the business by giving them ownership of their data and censor-free platforms for them to build movements, create content and share their message. The result will be they will have an unstoppable and untouchable business that will thrive in these quickly changing times.
+
+Supporting the transfer of knowledge for future entrepreneurs in building hybrid frameworks, projects, and businesses using alternative censorship-free platforms and technologies. This is how Bittopia aims to become the first decentralized cradle for researchers, mentors, disruptors, and entrepreneurs in the world.
+
+Full Article: https://bittopia.org/news/bittopia-university-decentralized-autonomous-university
+
+
+## 6.0 Challenges & Opportunities
 The downturn in the crypto market and global recession as made it challenging to raise capital. Though despite that we have pushed forward to continue our mission is decentralizing education and knowledge. 
 
 No matter where we go, we see a great deal of interest towards our model and incentive protocol. The majority of people immediately grasp the benefits and necessities. 
